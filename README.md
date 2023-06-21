@@ -1,4 +1,5 @@
-Hi there 👋
+# Hi there 👋
+
 # 💫 About Me:
 ✨ I am a highly motivated software engineering student &  full-stack web developer <br>I see myself as strong work ethic and am able to deliver high-quality work.<br>📬 Shoot me an <a href="mailto:zeineb.hamdi@esprit.tn">Email</a> or add me on <a href="https://www.linkedin.com/in/zeineb-hamdi-747a51246/">LinkedIn</a> 😎
 
@@ -18,10 +19,8 @@ Hi there 👋
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='http://http://dev-memer.info/' title="Meme">
+<img src='http://http://dev-memer.info/'>
 
----
-[![](https://visitcount.itsvg.in/api?id=zeineeb&icon=6&color=1)](https://visitcount.itsvg.in)
 
 
 
