@@ -1,8 +1,9 @@
 # Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeineeb&label=Profile%20views&color=0e75b6&style=flat" alt="zeinouba" /> </p>
+
 
 # 💫 About Me:
 ✨ I am a highly motivated software engineering student &  full-stack web developer <br>I see myself as strong work ethic and am able to deliver high-quality work.<br>📬 Shoot me an <a href="mailto:zeineb.hamdi@esprit.tn">Email</a> or add me on <a href="https://www.linkedin.com/in/zeineb-hamdi-747a51246/">LinkedIn</a> 😎
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeineeb&label=Profile%20views&color=0e75b6&style=flat" alt="zeinouba" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeineb_hamdii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeineb-hamdi-747a51246) 
